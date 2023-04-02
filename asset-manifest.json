@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/dohun9196/react_redux-todo-simple/static/css/main.df935988.css",
+    "main.js": "/dohun9196/react_redux-todo-simple/static/js/main.1ec4e4d5.js",
+    "index.html": "/dohun9196/react_redux-todo-simple/index.html",
+    "main.df935988.css.map": "/dohun9196/react_redux-todo-simple/static/css/main.df935988.css.map",
+    "main.1ec4e4d5.js.map": "/dohun9196/react_redux-todo-simple/static/js/main.1ec4e4d5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.df935988.css",
+    "static/js/main.1ec4e4d5.js"
+  ]
+}
